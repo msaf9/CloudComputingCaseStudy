@@ -1,4 +1,4 @@
-# Intorduction to Engineering Case Study
+# Cloud Computing Case Study
 A case study on Cloud Computing.
 
 ## Table of contents
