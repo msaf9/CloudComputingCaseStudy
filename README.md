@@ -15,12 +15,18 @@ A case study on Cloud Computing which studies about what is Cloud Computing, his
 * [Word document](resources/IntroductionToEngineeringCloudComputingCaseStudy.docx "IntroductionToEngineeringCloudComputingCaseStudy.docx")
 * [Presentation](resources/IntroductionToEngineeringCloudComputingCaseStudyPresentation.pptx "IntroductionToEngineeringCloudComputingCaseStudyPresentation.pptx")
 
+### Course information
+- Course Name: Introduction to Engineering
+- Course Code: 15GN1004
+- Course Credits: 3
+- Academic Year: 2015 - 2016
+
 ## Technologies
 - Microsoft Word and Power Point
 - Cloud Computing
 
 ## Project status
-> **Case study**
+> **Case study - Completed**
 
 ## Installation
 ### Get repository
