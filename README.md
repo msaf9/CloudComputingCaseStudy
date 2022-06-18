@@ -1,12 +1,15 @@
 # Cloud Computing Case Study
 A case study on Cloud Computing.
 
-## Table of contents
-1. Introduction
-2. Technologies
-3. Project status
-4. Installation
-5. License
+- [Cloud Computing Case Study](#cloud-computing-case-study)
+  - [Introduction](#introduction)
+    - [Resources](#resources)
+    - [Course information](#course-information)
+  - [Technologies](#technologies)
+  - [Project status](#project-status)
+  - [Installation](#installation)
+    - [Get repository](#get-repository)
+  - [License](#license)
 
 ## Introduction
 A case study on Cloud Computing which studies about what is Cloud Computing, history, different types & services offered by Cloud Computing, Pros, and Cons.
