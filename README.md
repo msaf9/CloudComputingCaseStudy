@@ -34,8 +34,8 @@ A case study on Cloud Computing which studies about what is Cloud Computing, his
 ## Installation
 ### Get repository
 ```git
-git https://github.com/msaf9/IntroductionToEngineering.git
-cd IntroductionToEngineering
+git https://github.com/msaf9/cloud-computing-case-study.git
+cd cloud-computing-case-study
 ```
 
 ## License
